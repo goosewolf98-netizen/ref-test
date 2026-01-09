@@ -1,0 +1,13 @@
+.Rproj.user
+.Renviron
+.Rhistory
+.RData
+.Ruserdata
+..Rcheck/00check.log
+
+inst/doc*
+hoopR.Rcheck*
+nba_pbp_db
+mbb_pbp_db
+md*
+docs
